@@ -1,0 +1,187 @@
+canonical_identifier: bkk:krp/KR3ek037/v1
+canonical_location: https://kanripo.org/bkk/KR3ek037/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 集驗背疽方
+  identifiers:
+    krp: KR3ek037
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek037.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek037_000.yaml, hash: 'sha256:74ecc54425048fb839cad5f356e9cd2fbb1dc93508d05650499fcfc70ded39bc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek037_000.markers.yaml, hash: 'sha256:ddd115a3ccee54220be240a19402d170677be37c4d0f68109ff3d3d1f635ccab'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 421
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 997
+  label: 背疽方總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d3d4
+    span:
+    - body
+    - 68
+    - 125
+  label: 背疽其源有五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d3d5
+    span:
+    - body
+    - 125
+    - 274
+  label: 察疽發有內外之別
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d3d6
+    span:
+    - body
+    - 274
+    - 312
+  label: 審內證用藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d3d7
+    span:
+    - body
+    - 312
+    - 553
+  label: 服補藥捷徑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d3d8
+    span:
+    - body
+    - 553
+    - 623
+  label: 疽發所在有不可治者
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d3d9
+    span:
+    - body
+    - 623
+    - 997
+  label: 戒忌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d4.h1s1
+    span:
+    - body
+    - 997
+    - 1614
+  label: 麥飯石膏論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d5.h1s1
+    span:
+    - body
+    - 1614
+    - 2964
+  label: 治疽癰用藥大綱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d6.h1s1
+    span:
+    - body
+    - 2964
+    - 3549
+  label: 論服嘉禾散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d7.h1s1
+    span:
+    - body
+    - 3549
+    - 5030
+  label: 論服不換金正氣散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d8.h1s1
+    span:
+    - body
+    - 5030
+    - 5362
+  label: 論渴疾本原
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d9.h1s1
+    span:
+    - body
+    - 5362
+    - 5431
+  label: 癰口將收論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d10.h1s1
+    span:
+    - body
+    - 5431
+    - 6889
+  label: 癰久瘡口不合論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek037_jc_000-d11.h1s1
+    span:
+    - body
+    - 6889
+    - 7639
+  label: 癰癤不可用膏藥貼合論
+  type: section
+  level: 1
+hash: sha256:637ca60019569784b3ed3b2b3bef5832edaf9f29db2ed5dee46242f2d8da7082
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
