@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek037_000.yaml, hash: 'sha256:74ecc54425048fb839cad5f356e9cd2fbb1dc93508d05650499fcfc70ded39bc'}
+  - {seq: 0, filename: KR3ek037_000.yaml, hash: 'sha256:db38ff555a7afb0d058ada8872b5e759165c974e344bb69538caf1748809f51e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek037_000.markers.yaml, hash: 'sha256:ddd115a3ccee54220be240a19402d170677be37c4d0f68109ff3d3d1f635ccab'}
+  - {seq: 0, role: markers, filename: assets/KR3ek037_000.markers.yaml, hash: 'sha256:e7a510d2190fb1747814527b355c04d7772129a692fa812d8bf6d0b7ccfeb8b2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -181,7 +181,4 @@ table_of_contents:
   label: 癰癤不可用膏藥貼合論
   type: section
   level: 1
-hash: sha256:637ca60019569784b3ed3b2b3bef5832edaf9f29db2ed5dee46242f2d8da7082
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b022f01904bfca8ccf1ade89a52065c2e820b92744200a22dcc8f0822c31eb44
