@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ek037/v1
 canonical_location: https://kanripo.org/bkk/KR3ek037/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 集驗背疽方
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek037_000.yaml, hash: 'sha256:db38ff555a7afb0d058ada8872b5e759165c974e344bb69538caf1748809f51e'}
+  - {seq: 0, filename: KR3ek037_000.yaml, hash: 'sha256:29d4bd41656435e6c995b61ba47d9533dfc18fd1e2ef5141521f27a71bbe60a4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek037_000.markers.yaml, hash: 'sha256:e7a510d2190fb1747814527b355c04d7772129a692fa812d8bf6d0b7ccfeb8b2'}
+  - {seq: 0, role: markers, filename: assets/KR3ek037_000.markers.yaml, hash: 'sha256:239ba9b3efdaa68e6668eac32358bc6763e7f37ea14adc8e4383075b296e568c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -181,4 +181,7 @@ table_of_contents:
   label: 癰癤不可用膏藥貼合論
   type: section
   level: 1
-hash: sha256:b022f01904bfca8ccf1ade89a52065c2e820b92744200a22dcc8f0822c31eb44
+hash: sha256:4b2ca23a80f8090cbca9266884993ac1ae52e18b162a2720d3e2454591d37c03
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
